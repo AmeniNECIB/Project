@@ -45,6 +45,4 @@ public class Humain {
 		this.argent -= n;
 	}
 
-	 
-	
 }
